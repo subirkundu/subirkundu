@@ -36,13 +36,17 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-## 📊 GitHub Activity
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subirkundu&theme=github-compact&hide_border=true" alt="Subir Kundu's GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subirkundu&show_icons=true&hide_border=true&theme=transparent" alt="Subir Kundu's GitHub Stats"/>
+  <a href="https://subir-kundu-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="YOUR_FACEBOOK_URL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 

@@ -47,6 +47,7 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
 
 </table>
 
+
 ## 🛠️ Tech Stack
 
 ### Automation
@@ -72,6 +73,7 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL">
 </p>
+
 
 ## 🤝 Let's Connect
 

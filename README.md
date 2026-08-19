@@ -2,10 +2,6 @@
   <img src="./assets/github-banner.png" alt="Subir Kundu - Software QA Engineer">
 </p>
 
-<p align="center">
-  <img src="./assets/github-banner.png" alt="Subir Kundu - Software QA Engineer">
-</p>
-
 ## 👋 About Me
 
 Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system testing. I focus on manual testing, test automation, API testing, and performance testing, with hands-on experience in Playwright, JavaScript, Postman, and JMeter.

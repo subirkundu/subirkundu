@@ -2,17 +2,17 @@
   <img src="./assets/github-banner.png" alt="Subir Kundu - Software QA Engineer">
 </p>
 
-## 👋 About Me
+## About Me
 
 Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system testing. I focus on manual testing, test automation, API testing, and performance testing, with hands-on experience in Playwright, JavaScript, Postman, and JMeter.
 
-## 🧪 What I Do
+## What I Do
 
 <table>
   <tr>
     <td width="33%" valign="top">
 
-### 🔍 Manual Testing
+### Manual Testing
 
 * Functional Testing
 * Regression Testing
@@ -23,7 +23,7 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
     </td>
     <td width="33%" valign="top">
 
-### 🤖 Test Automation
+### Test Automation
 
 * Playwright
 * JavaScript
@@ -34,7 +34,7 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
     </td>
     <td width="33%" valign="top">
 
-### 🔌 API & Performance
+### API & Performance
 
 * REST API Testing
 * Postman
@@ -48,7 +48,7 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
 </table>
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Automation
 
@@ -75,7 +75,7 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
 </p>
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://subir-kundu-portfolio.vercel.app/">

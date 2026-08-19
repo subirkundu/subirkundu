@@ -38,7 +38,7 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
 
 * REST API Testing
 * Postman
-* Swagger / OpenAPI
+* Swagger
 * Apache JMeter
 * Performance Testing
 
@@ -68,7 +68,6 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
 
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge" alt="TestRail">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL">

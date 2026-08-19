@@ -42,3 +42,7 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subirkundu&theme=github-compact&hide_border=true" alt="Subir Kundu's GitHub Activity Graph"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subirkundu&show_icons=true&hide_border=true&theme=transparent" alt="Subir Kundu's GitHub Stats"/>
+</p>
+

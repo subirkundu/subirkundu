@@ -50,14 +50,14 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
 
 ## Tech Stack
 
-### Automation
+#### Automation
 
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-### API & Performance
+#### API & Performance
 
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
@@ -65,7 +65,7 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
   <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="Apache JMeter">
 </p>
 
-### Tools & Workflow
+#### Tools & Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">

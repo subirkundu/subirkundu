@@ -86,4 +86,3 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
   </a>
 </p>
 
-

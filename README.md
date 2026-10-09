@@ -36,7 +36,7 @@ Software QA Engineer with 3+ years of experience in Web, Mobile, and ERP system 
 
 ### API & Performance
 
-* REST API Testing
+* API Testing
 * Postman
 * Swagger
 * Apache JMeter
